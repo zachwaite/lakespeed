@@ -19,6 +19,9 @@
   padding-right: 0.5rem;
 }
 
+.App-chart-section {
+}
+
 .App-grid-section {
   display: flex;
   flex-direction: row;
@@ -32,6 +35,22 @@
   flex: 1;
   align-items: flex-end;
   justify-content: center;
+}
+
+.App-chart-container-outer {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.App-chart-container-inner {
+  width: 800px;
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 1rem;
 }
 
 .App-grid-container, .App-footer-container {

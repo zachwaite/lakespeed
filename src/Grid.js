@@ -9,14 +9,6 @@ export const ResultsGrid = (props) => {
     take: 10,
   });
 
-  const cooked = props.data.map(result => {
-    let newResult = {...result};
-    newResult.dateTime = new Date(result.timestamp);
-    newResult.download.megabytes = newResult.download.bytes / 1000000;
-    newResult.upload.megabytes = newResult.upload.bytes / 1000000;
-    return newResult;
-  }).sort((a, b) => b.dateTime > a.dateTime ? 1 : -1);
-
   const pageChanged = (e) => {
     setPaging({skip: e.page.skip, take: e.page.take});
   };
@@ -27,12 +19,12 @@ export const ResultsGrid = (props) => {
 
   return (
     <Grid
-    data={filterBy(cooked, props.filter).slice(paging.skip, paging.take + paging.skip)}
+    data={filterBy(props.data, props.filter).slice(paging.skip, paging.take + paging.skip)}
     pageable={true}
     onPageChange={pageChanged} 
     skip={paging.skip}
     pageSize={paging.take}
-    total={filterBy(cooked, props.filter).length}
+    total={filterBy(props.data, props.filter).length}
     filterable={true}
     filter={props.filter}
     onFilterChange={filterChanged}
