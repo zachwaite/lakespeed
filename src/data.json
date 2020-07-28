@@ -1,0 +1,681 @@
+[
+  {
+    "type": "result",
+    "timestamp": "2020-07-27T21:34:55Z",
+    "ping": {
+      "jitter": 4.869,
+      "latency": 40.193
+    },
+    "download": {
+      "bandwidth": 6082026,
+      "bytes": 75303513,
+      "elapsed": 12806
+    },
+    "upload": {
+      "bandwidth": 1168730,
+      "bytes": 9339064,
+      "elapsed": 8006
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.137"
+    },
+    "server": {
+      "id": 5723,
+      "name": "INOC Data Centers",
+      "location": "Albany, NY",
+      "country": "United States",
+      "host": "speedtest.inoc.net",
+      "port": 8080,
+      "ip": "64.246.132.194"
+    },
+    "result": {
+      "id": "12c50373-edc7-4862-8bab-e3afe0551a38",
+      "url": "https://www.speedtest.net/result/c/12c50373-edc7-4862-8bab-e3afe0551a38"
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-07-27T21:45:25Z",
+    "ping": {
+      "jitter": 7.245,
+      "latency": 39.966
+    },
+    "download": {
+      "bandwidth": 5848459,
+      "bytes": 62810094,
+      "elapsed": 11304
+    },
+    "upload": {
+      "bandwidth": 1193993,
+      "bytes": 8067056,
+      "elapsed": 6808
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.137"
+    },
+    "server": {
+      "id": 5723,
+      "name": "INOC Data Centers",
+      "location": "Albany, NY",
+      "country": "United States",
+      "host": "speedtest.inoc.net",
+      "port": 8080,
+      "ip": "64.246.132.194"
+    },
+    "result": {
+      "id": "2bf24c1f-44f0-4c8f-92b2-dc87cd742674",
+      "url": "https://www.speedtest.net/result/c/2bf24c1f-44f0-4c8f-92b2-dc87cd742674"
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-07-27T22:45:34Z",
+    "ping": {
+      "jitter": 8.948,
+      "latency": 33.687
+    },
+    "download": {
+      "bandwidth": 5737257,
+      "bytes": 65391721,
+      "elapsed": 11915
+    },
+    "upload": {
+      "bandwidth": 1075625,
+      "bytes": 15703832,
+      "elapsed": 15012
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.137"
+    },
+    "server": {
+      "id": 5723,
+      "name": "INOC Data Centers",
+      "location": "Albany, NY",
+      "country": "United States",
+      "host": "speedtest.inoc.net",
+      "port": 8080,
+      "ip": "64.246.132.194"
+    },
+    "result": {
+      "id": "b4156360-f6c3-4d69-bb87-7675c976d447",
+      "url": "https://www.speedtest.net/result/c/b4156360-f6c3-4d69-bb87-7675c976d447"
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-07-27T23:45:27Z",
+    "ping": {
+      "jitter": 7.045,
+      "latency": 38.849
+    },
+    "download": {
+      "bandwidth": 5737067,
+      "bytes": 56318420,
+      "elapsed": 10102
+    },
+    "upload": {
+      "bandwidth": 751587,
+      "bytes": 5810168,
+      "elapsed": 7811
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.137"
+    },
+    "server": {
+      "id": 5723,
+      "name": "INOC Data Centers",
+      "location": "Albany, NY",
+      "country": "United States",
+      "host": "speedtest.inoc.net",
+      "port": 8080,
+      "ip": "64.246.132.194"
+    },
+    "result": {
+      "id": "cdfe6d7d-953c-44dc-99bc-9c6fa3fb0981",
+      "url": "https://www.speedtest.net/result/c/cdfe6d7d-953c-44dc-99bc-9c6fa3fb0981"
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-07-28T00:45:26Z",
+    "ping": {
+      "jitter": 7.495,
+      "latency": 47.257
+    },
+    "download": {
+      "bandwidth": 5834153,
+      "bytes": 57228696,
+      "elapsed": 10015
+    },
+    "upload": {
+      "bandwidth": 1139132,
+      "bytes": 7882452,
+      "elapsed": 7004
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.137"
+    },
+    "server": {
+      "id": 16034,
+      "name": "ECFiber",
+      "location": "South Royalton, VT",
+      "country": "United States",
+      "host": "speedtest.ecfaccess.net",
+      "port": 8080,
+      "ip": "104.219.98.54"
+    },
+    "result": {
+      "id": "d716f4d5-2f32-488c-9258-c980403cb895",
+      "url": "https://www.speedtest.net/result/c/d716f4d5-2f32-488c-9258-c980403cb895"
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-07-28T01:45:28Z",
+    "ping": {
+      "jitter": 3.767,
+      "latency": 37.157
+    },
+    "download": {
+      "bandwidth": 6024810,
+      "bytes": 84639251,
+      "elapsed": 15010
+    },
+    "upload": {
+      "bandwidth": 1291842,
+      "bytes": 8629027,
+      "elapsed": 6712
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.137"
+    },
+    "server": {
+      "id": 5723,
+      "name": "INOC Data Centers",
+      "location": "Albany, NY",
+      "country": "United States",
+      "host": "speedtest.inoc.net",
+      "port": 8080,
+      "ip": "64.246.132.194"
+    },
+    "result": {
+      "id": "13d4378f-ea81-4e46-9c97-1532d8173313",
+      "url": "https://www.speedtest.net/result/c/13d4378f-ea81-4e46-9c97-1532d8173313"
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-07-28T02:45:23Z",
+    "ping": {
+      "jitter": 19.802,
+      "latency": 44.33
+    },
+    "download": {
+      "bandwidth": 6046538,
+      "bytes": 77045104,
+      "elapsed": 13304
+    },
+    "upload": {
+      "bandwidth": 1331648,
+      "bytes": 5614460,
+      "elapsed": 4212
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.137"
+    },
+    "server": {
+      "id": 4405,
+      "name": "Green Mountain Access",
+      "location": "Richmond, VT",
+      "country": "United States",
+      "host": "speed.gmavt.net",
+      "port": 8080,
+      "ip": "65.19.65.5"
+    },
+    "result": {
+      "id": "c62221aa-27ee-4e48-be24-c045109ca916",
+      "url": "https://www.speedtest.net/result/c/c62221aa-27ee-4e48-be24-c045109ca916"
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-07-28T03:45:32Z",
+    "ping": {
+      "jitter": 7.847,
+      "latency": 49.747
+    },
+    "download": {
+      "bandwidth": 6157705,
+      "bytes": 65297140,
+      "elapsed": 10903
+    },
+    "upload": {
+      "bandwidth": 1456583,
+      "bytes": 15732980,
+      "elapsed": 11217
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.137"
+    },
+    "server": {
+      "id": 33195,
+      "name": "Mid-Hudson Cablevision",
+      "location": "Hudson, NY",
+      "country": "United States",
+      "host": "speedtest.mhcable.com",
+      "port": 8080,
+      "ip": "24.148.111.238"
+    },
+    "result": {
+      "id": "e89471d8-53dd-4266-96d5-d1a0f0beb244",
+      "url": "https://www.speedtest.net/result/c/e89471d8-53dd-4266-96d5-d1a0f0beb244"
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-07-28T04:45:33Z",
+    "ping": {
+      "jitter": 2.323,
+      "latency": 38.497
+    },
+    "download": {
+      "bandwidth": 5827939,
+      "bytes": 68661584,
+      "elapsed": 13708
+    },
+    "upload": {
+      "bandwidth": 1192705,
+      "bytes": 12308784,
+      "elapsed": 10505
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.137"
+    },
+    "server": {
+      "id": 5723,
+      "name": "INOC Data Centers",
+      "location": "Albany, NY",
+      "country": "United States",
+      "host": "speedtest.inoc.net",
+      "port": 8080,
+      "ip": "64.246.132.194"
+    },
+    "result": {
+      "id": "e78f1c68-3e77-49f1-b1bc-b02adedfcf4a",
+      "url": "https://www.speedtest.net/result/c/e78f1c68-3e77-49f1-b1bc-b02adedfcf4a"
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-07-28T05:45:26Z",
+    "ping": {
+      "jitter": 1.668,
+      "latency": 59.852
+    },
+    "download": {
+      "bandwidth": 6320401,
+      "bytes": 79129880,
+      "elapsed": 13212
+    },
+    "upload": {
+      "bandwidth": 1220143,
+      "bytes": 5973952,
+      "elapsed": 4806
+    },
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.137"
+    },
+    "server": {
+      "id": 12904,
+      "name": "Dartmouth College",
+      "location": "Hanover, NH",
+      "country": "United States",
+      "host": "perfsonar-test.dartmouth.edu",
+      "port": 8080,
+      "ip": "129.170.232.133"
+    },
+    "result": {
+      "id": "972f9c0b-b762-4a51-9b79-53dbc39c7234",
+      "url": "https://www.speedtest.net/result/c/972f9c0b-b762-4a51-9b79-53dbc39c7234"
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-07-28T06:45:32Z",
+    "ping": {
+      "jitter": 1.315,
+      "latency": 56.922
+    },
+    "download": {
+      "bandwidth": 6086350,
+      "bytes": 83683908,
+      "elapsed": 14412
+    },
+    "upload": {
+      "bandwidth": 1262504,
+      "bytes": 13120764,
+      "elapsed": 10615
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.137"
+    },
+    "server": {
+      "id": 16034,
+      "name": "ECFiber",
+      "location": "South Royalton, VT",
+      "country": "United States",
+      "host": "speedtest.ecfaccess.net",
+      "port": 8080,
+      "ip": "104.219.98.54"
+    },
+    "result": {
+      "id": "332870c5-36ed-4ab6-997e-28a7450ff4f5",
+      "url": "https://www.speedtest.net/result/c/332870c5-36ed-4ab6-997e-28a7450ff4f5"
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-07-28T07:45:32Z",
+    "ping": {
+      "jitter": 8.523,
+      "latency": 45.925
+    },
+    "download": {
+      "bandwidth": 5466168,
+      "bytes": 75256040,
+      "elapsed": 15010
+    },
+    "upload": {
+      "bandwidth": 1232616,
+      "bytes": 13353948,
+      "elapsed": 11104
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.137"
+    },
+    "server": {
+      "id": 34463,
+      "name": "GCET",
+      "location": "Greenfield, MA",
+      "country": "United States",
+      "host": "speedtest01-cty-gfld-ma-prod.gcet.net",
+      "port": 8080,
+      "ip": "172.103.76.57"
+    },
+    "result": {
+      "id": "bc1ccf5f-17a5-4cd3-9ed5-f5f03a065608",
+      "url": "https://www.speedtest.net/result/c/bc1ccf5f-17a5-4cd3-9ed5-f5f03a065608"
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-07-28T08:45:26Z",
+    "ping": {
+      "jitter": 2.154,
+      "latency": 37.263
+    },
+    "download": {
+      "bandwidth": 6207010,
+      "bytes": 71777712,
+      "elapsed": 12209
+    },
+    "upload": {
+      "bandwidth": 1343564,
+      "bytes": 11617560,
+      "elapsed": 8706
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.137"
+    },
+    "server": {
+      "id": 33195,
+      "name": "Mid-Hudson Cablevision",
+      "location": "Hudson, NY",
+      "country": "United States",
+      "host": "speedtest.mhcable.com",
+      "port": 8080,
+      "ip": "24.148.111.238"
+    },
+    "result": {
+      "id": "611e85ea-fa0c-43f1-83ab-4d936451a6ae",
+      "url": "https://www.speedtest.net/result/c/611e85ea-fa0c-43f1-83ab-4d936451a6ae"
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-07-28T09:45:30Z",
+    "ping": {
+      "jitter": 4.182,
+      "latency": 55.425
+    },
+    "download": {
+      "bandwidth": 6161001,
+      "bytes": 71425092,
+      "elapsed": 12008
+    },
+    "upload": {
+      "bandwidth": 1321002,
+      "bytes": 15279104,
+      "elapsed": 11717
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.137"
+    },
+    "server": {
+      "id": 16034,
+      "name": "ECFiber",
+      "location": "South Royalton, VT",
+      "country": "United States",
+      "host": "speedtest.ecfaccess.net",
+      "port": 8080,
+      "ip": "104.219.98.54"
+    },
+    "result": {
+      "id": "485c6a22-1f4f-47b7-bf43-4227d0501b0e",
+      "url": "https://www.speedtest.net/result/c/485c6a22-1f4f-47b7-bf43-4227d0501b0e"
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-07-28T10:45:24Z",
+    "ping": {
+      "jitter": 8.306,
+      "latency": 36.462
+    },
+    "download": {
+      "bandwidth": 6197322,
+      "bytes": 67052960,
+      "elapsed": 11007
+    },
+    "upload": {
+      "bandwidth": 1344776,
+      "bytes": 11549548,
+      "elapsed": 8707
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.137"
+    },
+    "server": {
+      "id": 33195,
+      "name": "Mid-Hudson Cablevision",
+      "location": "Hudson, NY",
+      "country": "United States",
+      "host": "speedtest.mhcable.com",
+      "port": 8080,
+      "ip": "24.148.111.238"
+    },
+    "result": {
+      "id": "122a0a4b-7acf-495e-8c1f-4649dd649eed",
+      "url": "https://www.speedtest.net/result/c/122a0a4b-7acf-495e-8c1f-4649dd649eed"
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-07-28T11:45:25Z",
+    "ping": {
+      "jitter": 9.013,
+      "latency": 43.449
+    },
+    "download": {
+      "bandwidth": 6153159,
+      "bytes": 70417404,
+      "elapsed": 11714
+    },
+    "upload": {
+      "bandwidth": 644039,
+      "bytes": 3211832,
+      "elapsed": 5005
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.137"
+    },
+    "server": {
+      "id": 10292,
+      "name": "TurnKey Internet, Inc.",
+      "location": "Albany, NY",
+      "country": "United States",
+      "host": "speedtest.turnkeyinternet.net",
+      "port": 8080,
+      "ip": "173.198.219.78"
+    },
+    "result": {
+      "id": "5090439e-74d7-40b1-a478-05234e6950a8",
+      "url": "https://www.speedtest.net/result/c/5090439e-74d7-40b1-a478-05234e6950a8"
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-07-28T12:45:33Z",
+    "ping": {
+      "jitter": 12.925,
+      "latency": 44.719
+    },
+    "download": {
+      "bandwidth": 6258665,
+      "bytes": 89891956,
+      "elapsed": 15012
+    },
+    "upload": {
+      "bandwidth": 718719,
+      "bytes": 5414588,
+      "elapsed": 7601
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.137"
+    },
+    "server": {
+      "id": 4405,
+      "name": "Green Mountain Access",
+      "location": "Richmond, VT",
+      "country": "United States",
+      "host": "speed.gmavt.net",
+      "port": 8080,
+      "ip": "65.19.65.5"
+    },
+    "result": {
+      "id": "c9e76eb8-9bc8-48bb-b025-349c2b85a951",
+      "url": "https://www.speedtest.net/result/c/c9e76eb8-9bc8-48bb-b025-349c2b85a951"
+    }
+  }
+]
