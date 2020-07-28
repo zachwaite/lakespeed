@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6afaafa07264f9c58256ace118b0d893",
+    "revision": "b74a28818be382467e31df14fdf54533",
     "url": "/lakespeed/index.html"
   },
   {
-    "revision": "b92962635605f56000d5",
+    "revision": "8f3f7d36c5ea43972847",
     "url": "/lakespeed/static/css/2.99d4d416.chunk.css"
   },
   {
-    "revision": "f5c0f1fb15de181fe04c",
+    "revision": "36704094819d7281dfc2",
     "url": "/lakespeed/static/css/main.3f21e391.chunk.css"
   },
   {
-    "revision": "b92962635605f56000d5",
-    "url": "/lakespeed/static/js/2.be6a02b9.chunk.js"
+    "revision": "8f3f7d36c5ea43972847",
+    "url": "/lakespeed/static/js/2.cfa3e495.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/lakespeed/static/js/2.be6a02b9.chunk.js.LICENSE.txt"
+    "url": "/lakespeed/static/js/2.cfa3e495.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f5c0f1fb15de181fe04c",
-    "url": "/lakespeed/static/js/main.ac875f0f.chunk.js"
+    "revision": "36704094819d7281dfc2",
+    "url": "/lakespeed/static/js/main.8648b9b7.chunk.js"
   },
   {
     "revision": "46dbac41623bfe796856",
