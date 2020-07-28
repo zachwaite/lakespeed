@@ -40,3 +40,5 @@ tags
 [._]*.un~
 
 # End of https://www.toptal.com/developers/gitignore/api/react,vim
+
+commit-push.sh
