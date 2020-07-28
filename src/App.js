@@ -9,7 +9,7 @@ const App = () => {
     <div className="App">
       <section className="App-header-section">
         <p><strong>Historical Speedtest Results:</strong></p>
-	<p>2219 County Route 47,  Salem, NY</p>
+	<p>2219 County Route 47, Salem, NY</p>
       </section>
       <section className="App-grid-section">
         <div className="App-grid-container">
