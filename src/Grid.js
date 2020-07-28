@@ -13,13 +13,27 @@ const cooked = raw.map(result => {
 
 
 export const ResultsGrid = (props) => {
+  const [paging, setPaging] = React.useState({
+    skip: 0,
+    take: 10,
+  });
+
+  const pageChanged = (e) => {
+    setPaging({skip: e.page.skip, take: e.page.take});
+  };
+
   return (
     <Grid
-    data={[...cooked]}
+    data={cooked.slice(paging.skip, paging.take + paging.skip)}
+    pageable={true}
+    onPageChange={pageChanged} 
+    skip={paging.skip}
+    pageSize={paging.take}
+    total={cooked.length}
     >
       <Column field="dateTime" title="Date/Time" format="{0:g}" />
       <Column field="ping.latency" title="Ping (ms)" />
-      <Column field="download.megabytes" title="Upload (mbps)" />
+      <Column field="download.megabytes" title="Download (mbps)" />
       <Column field="upload.megabytes" title="Upload (mbps)" />
     </Grid>
   );
