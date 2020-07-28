@@ -10,6 +10,13 @@
   flex-direction: row;
   flex: 1;
   justify-content: center;
+  align-items: flex-end;
+}
+
+.App-header-section p {
+  margin-bottom: 0.5rem;
+  padding-bottom: 0;
+  padding-right: 0.5rem;
 }
 
 .App-grid-section {
@@ -19,6 +26,19 @@
   justify-content: center;
 }
 
-.App-grid-container {
-  max-width: 800px;
+.App-footer-section {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  align-items: flex-end;
+  justify-content: center;
 }
+
+.App-grid-container, .App-footer-container {
+  max-width: 800px;
+  justify-content: flex-end;
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+}
+
