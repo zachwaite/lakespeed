@@ -59,6 +59,22 @@
   display: flex;
 }
 
+.ChartContainer {
+  border: 1px solid darkgreen;
+  border-radius: 5px;
+  padding: 2rem;
+}
+
+.ControlPanel {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid darkgreen;
+  padding: 1rem;
+  border-radius: 5px;
+  background-color: #ebebeb;
+  margin-bottom: 1rem;
+}
+
 .Footer {
 }
 
