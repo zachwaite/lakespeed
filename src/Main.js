@@ -5,11 +5,25 @@ import { ResultsGrid } from './Grid.js';
 
 
 const Tabs = (props) => {
-  const [selected, setSelected] = React.useState(0);
   const tabChanged = (e) => {
     setSelected(e.selected);
   };
-  const width = window.innerWidth * 0.9 + 'px';
+
+  const ninety = () => {
+    return window.innerWidth * 0.9;
+  };
+
+  const widthChanged = () => {
+    setWidth(ninety() + 'px');
+  };
+
+  const [selected, setSelected] = React.useState(0);
+  const [width, setWidth] = React.useState(ninety() + 'px');
+
+  React.useEffect(() => {
+    window.addEventListener('resize', widthChanged);
+    return _ => {window.removeEventListener('resize', widthChanged)};
+  });
 
   return (
     <TabStrip selected={selected} onSelect={tabChanged} className="Tabs">
