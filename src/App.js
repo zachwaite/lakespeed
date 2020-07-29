@@ -9,7 +9,7 @@ import { Footer } from './Footer.js';
 import data from "./data.json";
 
 const App = () => {
-  const [filter, setFilter] = React.useState({
+  const [filter] = React.useState({
     logic: 'and',
     filters: []
   });

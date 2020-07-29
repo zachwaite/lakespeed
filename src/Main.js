@@ -9,11 +9,11 @@ const Tabs = (props) => {
   const tabChanged = (e) => {
     setSelected(e.selected);
   };
-  const width = '800px';
+  const width = window.innerWidth * 0.9 + 'px';
 
   return (
     <TabStrip selected={selected} onSelect={tabChanged} className="Tabs">
-      <TabStripTab title="Chart" className="Tabs-strip">
+      <TabStripTab title="Graph">
         <div className="ChartContainer" style={{ width: width }}>
           <ChartContainer
             data={props.data}
@@ -21,7 +21,7 @@ const Tabs = (props) => {
            />
          </div>
       </TabStripTab>
-      <TabStripTab title="Grid">
+      <TabStripTab title="Data">
         <ResultsGrid
           data={props.data}
           filter={props.filter}

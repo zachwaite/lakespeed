@@ -8,6 +8,7 @@ import {
       ChartSeriesItem,
       ChartTitle
 } from '@progress/kendo-react-charts';
+import 'hammerjs';
 import { RadioGroup } from '@progress/kendo-react-inputs';
 
 import { filterBy } from '@progress/kendo-data-query';
