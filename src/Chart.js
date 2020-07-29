@@ -16,7 +16,7 @@ import { filterBy } from '@progress/kendo-data-query';
 const _options = [
   {label: 'Download', value: 'download', dataField: 'download.megabytes', ylabel: 'Speed (MB/sec)'},
   {label: 'Upload', value: 'upload', dataField: 'upload.megabytes', ylabel: 'Speed (MB/sec)'},
-  {label: 'Ping', value: 'ping', dataField: 'ping.latency', ylabel: 'Latency (sec)'}
+  {label: 'Ping', value: 'ping', dataField: 'ping.latency', ylabel: 'Latency (ms)'}
 ];
 
 const options = _options.map(x => { return { label: x.label, value: x.value }});
