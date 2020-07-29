@@ -1,6 +1,5 @@
 import React from 'react';
-import '@progress/kendo-theme-default/dist/all.css';
-import './App.css';
+import './App.scss';
 
 import { Header } from './Header.js';
 import { Main } from './Main.js';

@@ -1,3 +1,6 @@
+$primary: darkgreen;
+@import "~@progress/kendo-theme-default/dist/all.scss";
+
 #root {
   height: 100vh;
 }
@@ -76,5 +79,17 @@
 }
 
 .Footer {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #3c3535;
+  color: white;
+}
+
+.Footer-container {
+  padding: 0.5rem;
+}
+
+.Footer a {
+  color: #2dbbc2;
 }
 
