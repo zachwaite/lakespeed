@@ -1,63 +1,64 @@
+#root {
+  height: 100vh;
+}
+
 .App {
   display: flex;
   flex-direction: column;
   flex: 1;
-  justify-content: center;
+  justify-content: flex-start;
+  height: 100%;
 }
 
-.App-header-section {
+.Header {
   display: flex;
   flex-direction: row;
-  flex: 1;
-  justify-content: center;
-  align-items: flex-end;
+  flex: 0 0 64px;
+  justify-content: flex-start;
+
+  background-color: darkgreen;
 }
 
-.App-header-section p {
-  margin-bottom: 0.5rem;
-  padding-bottom: 0;
-  padding-right: 0.5rem;
-}
-
-.App-chart-section {
-}
-
-.App-grid-section {
-  display: flex;
-  flex-direction: row;
-  flex: 1;
-  justify-content: center;
-}
-
-.App-footer-section {
-  display: flex;
-  flex-direction: row;
-  flex: 1;
-  align-items: flex-end;
-  justify-content: center;
-}
-
-.App-chart-container-outer {
-  display: flex;
-  flex-direction: row;
-  flex: 1;
-  align-items: flex-end;
-  justify-content: center;
+.Header .Header-text-container {
   padding: 1rem;
+  color: #ebebeb;
 }
 
-.App-chart-container-inner {
-  width: 800px;
-  border: 1px solid;
-  border-radius: 5px;
-  padding: 1rem;
+.Header .Header-text-container h1, p {
+  padding: 0;
+  margin: 0;
 }
 
-.App-grid-container, .App-footer-container {
-  max-width: 800px;
-  justify-content: flex-end;
+.Main {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex: 1;
+  justify-content: flex-start;
+}
+
+.Tabs {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.Tabs > ul {
+  height: 64px;
+  font-size: 1.5rem;
+}
+
+.Tabs .k-content {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.Tabs.k-tabstrip>.k-content.k-state-active {
+  display: flex;
+}
+
+.Footer {
 }
 
