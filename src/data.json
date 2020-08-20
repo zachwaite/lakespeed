@@ -18361,5 +18361,45 @@
       "id": "10bad297-65c4-42cb-bcb9-abe72c9214c1",
       "url": "https://www.speedtest.net/result/c/10bad297-65c4-42cb-bcb9-abe72c9214c1"
     }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-08-20T03:45:31Z",
+    "ping": {
+      "jitter": 10.416,
+      "latency": 39.908
+    },
+    "download": {
+      "bandwidth": 4906936,
+      "bytes": 66710056,
+      "elapsed": 15003
+    },
+    "upload": {
+      "bandwidth": 607872,
+      "bytes": 4776912,
+      "elapsed": 7901
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.245"
+    },
+    "server": {
+      "id": 34463,
+      "name": "GCET",
+      "location": "Greenfield, MA",
+      "country": "United States",
+      "host": "speedtest01-cty-gfld-ma-prod.gcet.net",
+      "port": 8080,
+      "ip": "172.103.76.57"
+    },
+    "result": {
+      "id": "657f33ea-f704-40b3-a9a7-683d41d9b07a",
+      "url": "https://www.speedtest.net/result/c/657f33ea-f704-40b3-a9a7-683d41d9b07a"
+    }
   }
 ]
