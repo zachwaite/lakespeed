@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lakespeed/static/css/main.f404bca2.chunk.css",
-    "main.js": "/lakespeed/static/js/main.1d08b4c3.chunk.js",
-    "main.js.map": "/lakespeed/static/js/main.1d08b4c3.chunk.js.map",
+    "main.js": "/lakespeed/static/js/main.60530614.chunk.js",
+    "main.js.map": "/lakespeed/static/js/main.60530614.chunk.js.map",
     "runtime-main.js": "/lakespeed/static/js/runtime-main.a616964e.js",
     "runtime-main.js.map": "/lakespeed/static/js/runtime-main.a616964e.js.map",
     "static/js/2.a8a2a67b.chunk.js": "/lakespeed/static/js/2.a8a2a67b.chunk.js",
     "static/js/2.a8a2a67b.chunk.js.map": "/lakespeed/static/js/2.a8a2a67b.chunk.js.map",
     "index.html": "/lakespeed/index.html",
-    "precache-manifest.3a1982457a447b01cf7b6b172417cc66.js": "/lakespeed/precache-manifest.3a1982457a447b01cf7b6b172417cc66.js",
+    "precache-manifest.aee20110f6afe6444513694237d7edd7.js": "/lakespeed/precache-manifest.aee20110f6afe6444513694237d7edd7.js",
     "service-worker.js": "/lakespeed/service-worker.js",
     "static/css/main.f404bca2.chunk.css.map": "/lakespeed/static/css/main.f404bca2.chunk.css.map",
     "static/js/2.a8a2a67b.chunk.js.LICENSE.txt": "/lakespeed/static/js/2.a8a2a67b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a616964e.js",
     "static/js/2.a8a2a67b.chunk.js",
     "static/css/main.f404bca2.chunk.css",
-    "static/js/main.1d08b4c3.chunk.js"
+    "static/js/main.60530614.chunk.js"
   ]
 }
