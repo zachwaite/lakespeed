@@ -43095,5 +43095,8 @@
       "id": "e3573dc9-65f7-4afa-800c-0a4b8963650e",
       "url": "https://www.speedtest.net/result/c/e3573dc9-65f7-4afa-800c-0a4b8963650e"
     }
+  },
+  {
+    "error": "Latency test failed for both TCP, and no HTTP URL available."
   }
 ]
