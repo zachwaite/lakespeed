@@ -55654,5 +55654,45 @@
   },
   {
     "error": "Latency test failed for both TCP, and no HTTP URL available."
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-10-03T14:45:24Z",
+    "ping": {
+      "jitter": 1.997,
+      "latency": 38.275
+    },
+    "download": {
+      "bandwidth": 5479217,
+      "bytes": 53897428,
+      "elapsed": 10308
+    },
+    "upload": {
+      "bandwidth": 444406,
+      "bytes": 2757956,
+      "elapsed": 6200
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.208"
+    },
+    "server": {
+      "id": 27111,
+      "name": "MassiveMesh Networks",
+      "location": "Troy, NY",
+      "country": "United States",
+      "host": "speedtest.massivemesh.com",
+      "port": 8080,
+      "ip": "38.104.52.188"
+    },
+    "result": {
+      "id": "2b1d5723-d6f3-4cfd-83de-d42639adfc69",
+      "url": "https://www.speedtest.net/result/c/2b1d5723-d6f3-4cfd-83de-d42639adfc69"
+    }
   }
 ]
