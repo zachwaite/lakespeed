@@ -56494,5 +56494,8 @@
       "id": "2e9fb1df-b034-4c33-9f69-8777d432559f",
       "url": "https://www.speedtest.net/result/c/2e9fb1df-b034-4c33-9f69-8777d432559f"
     }
+  },
+  {
+    "error": "Cannot open socket: Timeout occurred in connect."
   }
 ]
