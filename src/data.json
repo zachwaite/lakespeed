@@ -57415,5 +57415,8 @@
       "id": "881506bd-1aa7-401e-b7a6-ada2774ddffc",
       "url": "https://www.speedtest.net/result/c/881506bd-1aa7-401e-b7a6-ada2774ddffc"
     }
+  },
+  {
+    "error": "Cannot open socket: Timeout occurred in connect."
   }
 ]
