@@ -59741,5 +59741,45 @@
   },
   {
     "error": "Cannot open socket: Host is unreachable"
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-10-07T23:45:33Z",
+    "ping": {
+      "jitter": 6.768,
+      "latency": 51.337
+    },
+    "download": {
+      "bandwidth": 4324820,
+      "bytes": 48680004,
+      "elapsed": 11716
+    },
+    "upload": {
+      "bandwidth": 387778,
+      "bytes": 4388856,
+      "elapsed": 11715
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.208"
+    },
+    "server": {
+      "id": 10292,
+      "name": "TurnKey Internet, Inc.",
+      "location": "Albany, NY",
+      "country": "United States",
+      "host": "speedtest.turnkeyinternet.net",
+      "port": 8080,
+      "ip": "173.198.219.78"
+    },
+    "result": {
+      "id": "6641566c-cd3e-4063-b3a3-7e1585c64532",
+      "url": "https://www.speedtest.net/result/c/6641566c-cd3e-4063-b3a3-7e1585c64532"
+    }
   }
 ]
