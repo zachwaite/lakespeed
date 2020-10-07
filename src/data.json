@@ -59738,5 +59738,8 @@
       "id": "a9fa45d5-f3be-4084-9985-e0c36b2880b3",
       "url": "https://www.speedtest.net/result/c/a9fa45d5-f3be-4084-9985-e0c36b2880b3"
     }
+  },
+  {
+    "error": "Cannot open socket: Host is unreachable"
   }
 ]
