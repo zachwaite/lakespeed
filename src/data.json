@@ -61301,5 +61301,8 @@
       "id": "0641a235-3fb5-4061-87e5-bf6833b3f22d",
       "url": "https://www.speedtest.net/result/c/0641a235-3fb5-4061-87e5-bf6833b3f22d"
     }
+  },
+  {
+    "error": "Host resolve failed: Host is unreachable"
   }
 ]
