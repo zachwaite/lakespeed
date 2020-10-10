@@ -62424,5 +62424,45 @@
       "id": "30a8c942-8c1c-467d-9e75-0f2d0bfdc213",
       "url": "https://www.speedtest.net/result/c/30a8c942-8c1c-467d-9e75-0f2d0bfdc213"
     }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-10-10T19:45:26Z",
+    "ping": {
+      "jitter": 11.3,
+      "latency": 40.17
+    },
+    "download": {
+      "bandwidth": 5792606,
+      "bytes": 55279876,
+      "elapsed": 9912
+    },
+    "upload": {
+      "bandwidth": 606518,
+      "bytes": 4840108,
+      "elapsed": 8011
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.208"
+    },
+    "server": {
+      "id": 10292,
+      "name": "TurnKey Internet, Inc.",
+      "location": "Albany, NY",
+      "country": "United States",
+      "host": "speedtest.turnkeyinternet.net",
+      "port": 8080,
+      "ip": "173.198.219.78"
+    },
+    "result": {
+      "id": "f5248962-17c4-4420-8933-36292b28b06e",
+      "url": "https://www.speedtest.net/result/c/f5248962-17c4-4420-8933-36292b28b06e"
+    }
   }
 ]
