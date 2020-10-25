@@ -76772,5 +76772,8 @@
       "id": "56055801-7054-4f99-80ba-d1a075d71c62",
       "url": "https://www.speedtest.net/result/c/56055801-7054-4f99-80ba-d1a075d71c62"
     }
+  },
+  {
+    "error": "Latency test failed for both TCP, and no HTTP URL available."
   }
 ]
