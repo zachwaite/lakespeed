@@ -77015,5 +77015,8 @@
       "id": "c79cb48c-1ada-466d-8b78-dfcf9d9badae",
       "url": "https://www.speedtest.net/result/c/c79cb48c-1ada-466d-8b78-dfcf9d9badae"
     }
+  },
+  {
+    "error": "Cannot open socket: Timeout occurred in connect."
   }
 ]
