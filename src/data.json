@@ -77738,5 +77738,45 @@
       "id": "3d22863d-0989-4ccc-adf2-fc60a482961e",
       "url": "https://www.speedtest.net/result/c/3d22863d-0989-4ccc-adf2-fc60a482961e"
     }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-10-26T22:45:18Z",
+    "ping": {
+      "jitter": 38.211,
+      "latency": 41.87
+    },
+    "download": {
+      "bandwidth": 3116615,
+      "bytes": 12744616,
+      "elapsed": 4110
+    },
+    "upload": {
+      "bandwidth": 598756,
+      "bytes": 4015404,
+      "elapsed": 6704
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.210"
+    },
+    "server": {
+      "id": 4405,
+      "name": "Green Mountain Access",
+      "location": "Richmond, VT",
+      "country": "United States",
+      "host": "speed.gmavt.net",
+      "port": 8080,
+      "ip": "65.19.65.5"
+    },
+    "result": {
+      "id": "918133b5-3c59-4c28-bbd1-93deb58ee286",
+      "url": "https://www.speedtest.net/result/c/918133b5-3c59-4c28-bbd1-93deb58ee286"
+    }
   }
 ]
