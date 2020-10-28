@@ -79136,5 +79136,8 @@
       "id": "a4d4679c-2bb3-4d0a-b912-5a3bb8149626",
       "url": "https://www.speedtest.net/result/c/a4d4679c-2bb3-4d0a-b912-5a3bb8149626"
     }
+  },
+  {
+    "error": "Cannot read from socket: Resource temporarily unavailable"
   }
 ]
