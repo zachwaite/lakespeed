@@ -1,0 +1,39 @@
+{
+    "type": "result",
+    "timestamp": "2020-10-29T10:45:26Z",
+    "ping": {
+        "jitter": 2.1880000000000002,
+        "latency": 59.396000000000001
+    },
+    "download": {
+        "bandwidth": 5353311,
+        "bytes": 50939600,
+        "elapsed": 10111
+    },
+    "upload": {
+        "bandwidth": 599551,
+        "bytes": 4431532,
+        "elapsed": 7505
+    },
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+        "internalIp": "192.168.1.18",
+        "name": "wlp1s0",
+        "macAddr": "64:5A:04:64:91:96",
+        "isVpn": false,
+        "externalIp": "208.71.250.204"
+    },
+    "server": {
+        "id": 2405,
+        "name": "Spectrum",
+        "location": "Oxford, MA",
+        "country": "United States",
+        "host": "spt01oxfrma.oxfr.ma.charter.com",
+        "port": 8080,
+        "ip": "68.112.249.114"
+    },
+    "result": {
+        "id": "41e9b0df-4b4c-40bd-8aa4-4122d555324e",
+        "url": "https://www.speedtest.net/result/c/41e9b0df-4b4c-40bd-8aa4-4122d555324e"
+    }
+}
