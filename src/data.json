@@ -83619,5 +83619,8 @@
       "id": "3b3bf2d4-9bbb-451e-8846-f239eeddbc87",
       "url": "https://www.speedtest.net/result/c/3b3bf2d4-9bbb-451e-8846-f239eeddbc87"
     }
+  },
+  {
+    "error": "Cannot open socket: Timeout occurred in connect."
   }
 ]
