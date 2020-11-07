@@ -88260,5 +88260,45 @@
       "id": "a72cd0a4-c86a-4b52-a277-2fb57e864692",
       "url": "https://www.speedtest.net/result/c/a72cd0a4-c86a-4b52-a277-2fb57e864692"
     }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-11-07T05:45:24Z",
+    "ping": {
+      "jitter": 1.896,
+      "latency": 36.584
+    },
+    "download": {
+      "bandwidth": 5636586,
+      "bytes": 46077436,
+      "elapsed": 8312
+    },
+    "upload": {
+      "bandwidth": 599211,
+      "bytes": 4799704,
+      "elapsed": 8028
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.204"
+    },
+    "server": {
+      "id": 33195,
+      "name": "Mid-Hudson Cablevision",
+      "location": "Hudson, NY",
+      "country": "United States",
+      "host": "speedtest.mhcable.com",
+      "port": 8080,
+      "ip": "24.148.111.238"
+    },
+    "result": {
+      "id": "318e087c-57a4-4590-8f08-e170f106a3c6",
+      "url": "https://www.speedtest.net/result/c/318e087c-57a4-4590-8f08-e170f106a3c6"
+    }
   }
 ]
