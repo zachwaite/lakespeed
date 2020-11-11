@@ -92777,5 +92777,44 @@
       "id": "7b349b6b-88ec-482b-be15-cdbd9ad0c781",
       "url": "https://www.speedtest.net/result/c/7b349b6b-88ec-482b-be15-cdbd9ad0c781"
     }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-11-11T23:45:26Z",
+    "ping": {
+      "jitter": 15.037,
+      "latency": 41.042
+    },
+    "download": {
+      "bandwidth": 4783071,
+      "bytes": 54771936,
+      "elapsed": 12812
+    },
+    "upload": {
+      "bandwidth": 571538,
+      "bytes": 3758704,
+      "elapsed": 6704
+    },
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.66"
+    },
+    "server": {
+      "id": 12904,
+      "name": "Dartmouth College",
+      "location": "Hanover, NH",
+      "country": "United States",
+      "host": "perfsonar-test.dartmouth.edu",
+      "port": 8080,
+      "ip": "129.170.232.133"
+    },
+    "result": {
+      "id": "97a10783-69d7-4bf0-9976-895debf0d780",
+      "url": "https://www.speedtest.net/result/c/97a10783-69d7-4bf0-9976-895debf0d780"
+    }
   }
 ]
