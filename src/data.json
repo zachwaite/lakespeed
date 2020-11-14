@@ -95096,5 +95096,45 @@
       "id": "edf581dd-bfa0-4fba-b86c-188311ad2622",
       "url": "https://www.speedtest.net/result/c/edf581dd-bfa0-4fba-b86c-188311ad2622"
     }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-11-14T09:45:26Z",
+    "ping": {
+      "jitter": 3.194,
+      "latency": 47.713
+    },
+    "download": {
+      "bandwidth": 5604164,
+      "bytes": 47074020,
+      "elapsed": 8705
+    },
+    "upload": {
+      "bandwidth": 662872,
+      "bytes": 5390952,
+      "elapsed": 15012
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.66"
+    },
+    "server": {
+      "id": 21480,
+      "name": "MTC",
+      "location": "Margaretville, NY",
+      "country": "United States",
+      "host": "mtcspeedtest.catskill.net",
+      "port": 8080,
+      "ip": "208.64.72.11"
+    },
+    "result": {
+      "id": "ee91eace-02f6-4dea-a93e-78b78708f871",
+      "url": "https://www.speedtest.net/result/c/ee91eace-02f6-4dea-a93e-78b78708f871"
+    }
   }
 ]
