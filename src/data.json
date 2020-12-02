@@ -112004,5 +112004,45 @@
       "id": "b66c5514-ad3e-4f18-af8c-3c04acec55c7",
       "url": "https://www.speedtest.net/result/c/b66c5514-ad3e-4f18-af8c-3c04acec55c7"
     }
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-12-02T00:45:21Z",
+    "ping": {
+      "jitter": 12.159,
+      "latency": 46.662
+    },
+    "download": {
+      "bandwidth": 2899786,
+      "bytes": 28571980,
+      "elapsed": 9701
+    },
+    "upload": {
+      "bandwidth": 555914,
+      "bytes": 3039136,
+      "elapsed": 5402
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.66"
+    },
+    "server": {
+      "id": 15788,
+      "name": "Sprint",
+      "location": "Springfield, MA",
+      "country": "United States",
+      "host": "ookla1.spfdma.sprintadp.net",
+      "port": 8080,
+      "ip": "208.18.87.6"
+    },
+    "result": {
+      "id": "f17052fe-7b7e-4cf3-a9e0-0ff813b30205",
+      "url": "https://www.speedtest.net/result/c/f17052fe-7b7e-4cf3-a9e0-0ff813b30205"
+    }
   }
 ]
