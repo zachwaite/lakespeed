@@ -1,0 +1,40 @@
+{
+    "type": "result",
+    "timestamp": "2020-12-07T11:45:27Z",
+    "ping": {
+        "jitter": 3.351,
+        "latency": 59.341000000000001
+    },
+    "download": {
+        "bandwidth": 5749840,
+        "bytes": 67925944,
+        "elapsed": 12605
+    },
+    "upload": {
+        "bandwidth": 602310,
+        "bytes": 5203028,
+        "elapsed": 8705
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+        "internalIp": "192.168.1.18",
+        "name": "wlp1s0",
+        "macAddr": "64:5A:04:64:91:96",
+        "isVpn": false,
+        "externalIp": "208.71.250.225"
+    },
+    "server": {
+        "id": 17193,
+        "name": "Burlington Telecom",
+        "location": "Burlington, VT",
+        "country": "United States",
+        "host": "rubidium.burlingtontelecom.net",
+        "port": 8080,
+        "ip": "204.13.40.62"
+    },
+    "result": {
+        "id": "ea7b9354-0839-43cd-ba59-d746fe520aac",
+        "url": "https://www.speedtest.net/result/c/ea7b9354-0839-43cd-ba59-d746fe520aac"
+    }
+}
