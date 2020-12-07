@@ -116880,5 +116880,8 @@
       "id": "76f3f0ba-7054-454c-8d7b-133a071f2dcc",
       "url": "https://www.speedtest.net/result/c/76f3f0ba-7054-454c-8d7b-133a071f2dcc"
     }
+  },
+  {
+    "error": "Host resolve failed: Host is unreachable"
   }
 ]
