@@ -122365,5 +122365,45 @@
   },
   {
     "error": "Cannot open socket: Host is unreachable"
+  },
+  {
+    "type": "result",
+    "timestamp": "2020-12-12T21:45:28Z",
+    "ping": {
+      "jitter": 12.1,
+      "latency": 43.779
+    },
+    "download": {
+      "bandwidth": 4444780,
+      "bytes": 52845324,
+      "elapsed": 12807
+    },
+    "upload": {
+      "bandwidth": 588412,
+      "bytes": 4022424,
+      "elapsed": 6906
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+      "isVpn": false,
+      "externalIp": "208.71.250.225"
+    },
+    "server": {
+      "id": 27111,
+      "name": "MassiveMesh Networks",
+      "location": "Troy, NY",
+      "country": "United States",
+      "host": "speedtest.massivemesh.com",
+      "port": 8080,
+      "ip": "38.104.52.188"
+    },
+    "result": {
+      "id": "5611d21b-d54c-4bb5-b42d-9fef9b6f4eac",
+      "url": "https://www.speedtest.net/result/c/5611d21b-d54c-4bb5-b42d-9fef9b6f4eac"
+    }
   }
 ]
