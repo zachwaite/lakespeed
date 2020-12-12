@@ -122362,5 +122362,8 @@
       "id": "f77a013e-5194-4dc6-b1b2-d5573f63529c",
       "url": "https://www.speedtest.net/result/c/f77a013e-5194-4dc6-b1b2-d5573f63529c"
     }
+  },
+  {
+    "error": "Cannot open socket: Host is unreachable"
   }
 ]
