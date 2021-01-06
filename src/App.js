@@ -14,7 +14,7 @@ const App = () => {
   });
 
   const cooked = data.filter(
-	    result => result.type == "result"
+	    result => result.type === "result"
           ).map(result => {
     let newResult = {...result};
     newResult.dateTime = new Date(result.timestamp);
