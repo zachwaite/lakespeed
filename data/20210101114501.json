@@ -1,0 +1,40 @@
+{
+    "type": "result",
+    "timestamp": "2021-01-01T11:45:18Z",
+    "ping": {
+        "jitter": 6.5430000000000001,
+        "latency": 40.079999999999998
+    },
+    "download": {
+        "bandwidth": 3720630,
+        "bytes": 25850112,
+        "elapsed": 7113
+    },
+    "upload": {
+        "bandwidth": 597992,
+        "bytes": 3704572,
+        "elapsed": 6400
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+        "internalIp": "192.168.1.229",
+        "name": "enp0s3",
+        "macAddr": "08:00:27:52:85:5B",
+        "isVpn": false,
+        "externalIp": "208.71.250.225"
+    },
+    "server": {
+        "id": 38849,
+        "name": "FiberCast",
+        "location": "Stoddard, NH",
+        "country": "United States",
+        "host": "speedtest.sdd.fibercast.net",
+        "port": 8080,
+        "ip": "216.177.6.9"
+    },
+    "result": {
+        "id": "c6519b92-dd12-4984-bbc1-72c99069f578",
+        "url": "https://www.speedtest.net/result/c/c6519b92-dd12-4984-bbc1-72c99069f578"
+    }
+}

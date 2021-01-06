@@ -1,0 +1,40 @@
+{
+    "type": "result",
+    "timestamp": "2020-12-18T22:45:40Z",
+    "ping": {
+        "jitter": 15.52,
+        "latency": 44.470999999999997
+    },
+    "download": {
+        "bandwidth": 1195516,
+        "bytes": 12030200,
+        "elapsed": 10500
+    },
+    "upload": {
+        "bandwidth": 65315,
+        "bytes": 903127,
+        "elapsed": 15014
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+        "internalIp": "192.168.1.229",
+        "name": "enp0s3",
+        "macAddr": "08:00:27:52:85:5B",
+        "isVpn": false,
+        "externalIp": "208.71.250.246"
+    },
+    "server": {
+        "id": 8444,
+        "name": "Northland Communications",
+        "location": "Utica, NY",
+        "country": "United States",
+        "host": "speedtest-utc1.northland.net",
+        "port": 8080,
+        "ip": "216.171.184.225"
+    },
+    "result": {
+        "id": "4bd10c50-05d2-4325-bea9-ddf464291667",
+        "url": "https://www.speedtest.net/result/c/4bd10c50-05d2-4325-bea9-ddf464291667"
+    }
+}

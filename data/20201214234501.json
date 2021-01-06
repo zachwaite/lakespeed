@@ -1,0 +1,40 @@
+{
+    "type": "result",
+    "timestamp": "2020-12-14T23:45:29Z",
+    "ping": {
+        "jitter": 9.4819999999999993,
+        "latency": 49.731000000000002
+    },
+    "download": {
+        "bandwidth": 588457,
+        "bytes": 8897080,
+        "elapsed": 15006
+    },
+    "upload": {
+        "bandwidth": 593752,
+        "bytes": 4572072,
+        "elapsed": 7745
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+        "internalIp": "192.168.1.229",
+        "name": "enp0s3",
+        "macAddr": "08:00:27:52:85:5B",
+        "isVpn": false,
+        "externalIp": "208.71.250.225"
+    },
+    "server": {
+        "id": 27111,
+        "name": "MassiveMesh Networks",
+        "location": "Troy, NY",
+        "country": "United States",
+        "host": "speedtest.massivemesh.com",
+        "port": 8080,
+        "ip": "38.104.52.188"
+    },
+    "result": {
+        "id": "52e42772-6eff-4d14-b016-d1146e9762d5",
+        "url": "https://www.speedtest.net/result/c/52e42772-6eff-4d14-b016-d1146e9762d5"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "type": "result",
+    "timestamp": "2020-12-19T08:45:40Z",
+    "ping": {
+        "jitter": 10.151999999999999,
+        "latency": 58.643999999999998
+    },
+    "download": {
+        "bandwidth": 1860252,
+        "bytes": 17474920,
+        "elapsed": 9616
+    },
+    "upload": {
+        "bandwidth": 60930,
+        "bytes": 786996,
+        "elapsed": 15013
+    },
+    "packetLoss": 0,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+        "internalIp": "192.168.1.229",
+        "name": "enp0s3",
+        "macAddr": "08:00:27:52:85:5B",
+        "isVpn": false,
+        "externalIp": "208.71.250.225"
+    },
+    "server": {
+        "id": 16034,
+        "name": "ECFiber",
+        "location": "South Royalton, VT",
+        "country": "United States",
+        "host": "speedtest.ecfaccess.net",
+        "port": 8080,
+        "ip": "104.219.98.54"
+    },
+    "result": {
+        "id": "2d2dcebb-019c-4889-bc3f-aac1c57169ca",
+        "url": "https://www.speedtest.net/result/c/2d2dcebb-019c-4889-bc3f-aac1c57169ca"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "type": "result",
+    "timestamp": "2020-12-22T23:45:34Z",
+    "ping": {
+        "jitter": 8.8870000000000005,
+        "latency": 49.868000000000002
+    },
+    "download": {
+        "bandwidth": 1533410,
+        "bytes": 13552875,
+        "elapsed": 9213
+    },
+    "upload": {
+        "bandwidth": 39937,
+        "bytes": 563528,
+        "elapsed": 15006
+    },
+    "packetLoss": 78.142076502732237,
+    "isp": "Hudson Valley Wireless",
+    "interface": {
+        "internalIp": "192.168.1.229",
+        "name": "enp0s3",
+        "macAddr": "08:00:27:52:85:5B",
+        "isVpn": false,
+        "externalIp": "208.71.250.225"
+    },
+    "server": {
+        "id": 5723,
+        "name": "INOC Data Centers",
+        "location": "Albany, NY",
+        "country": "United States",
+        "host": "speedtest.inoc.net",
+        "port": 8080,
+        "ip": "64.246.132.194"
+    },
+    "result": {
+        "id": "cedcb436-f183-42d5-8728-2f31035ed5e3",
+        "url": "https://www.speedtest.net/result/c/cedcb436-f183-42d5-8728-2f31035ed5e3"
+    }
+}
