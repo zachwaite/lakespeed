@@ -13,7 +13,9 @@ const App = () => {
     filters: []
   });
 
-  const cooked = data.map(result => {
+  const cooked = data.filter(
+	    result => result.type == "result"
+          ).map(result => {
     let newResult = {...result};
     newResult.dateTime = new Date(result.timestamp);
     newResult.download.megabytes = newResult.download.bytes / 1000000;
