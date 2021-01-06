@@ -123127,6 +123127,7 @@
   },
   {
     "type": "result",
+<<<<<<< HEAD
     "timestamp": "2020-12-14T11:01:13Z",
     "ping": {
       "jitter": 10.132,
@@ -123141,10 +123142,27 @@
       "bandwidth": 600094,
       "bytes": 4878008,
       "elapsed": 8211
+=======
+    "timestamp": "2020-12-13T16:45:25Z",
+    "ping": {
+      "jitter": 6.444,
+      "latency": 34.465
+    },
+    "download": {
+      "bandwidth": 5177169,
+      "bytes": 48838461,
+      "elapsed": 10005
+    },
+    "upload": {
+      "bandwidth": 605269,
+      "bytes": 4028407,
+      "elapsed": 6714
+>>>>>>> c35d5aac665662942e5988830384646d7bb3449a
     },
     "packetLoss": 0,
     "isp": "Hudson Valley Wireless",
     "interface": {
+<<<<<<< HEAD
       "internalIp": "192.168.1.229",
       "name": "enp0s3",
       "macAddr": "08:00:27:52:85:5B",
@@ -123469,6 +123487,11 @@
       "internalIp": "192.168.1.229",
       "name": "enp0s3",
       "macAddr": "08:00:27:52:85:5B",
+=======
+      "internalIp": "192.168.1.18",
+      "name": "wlp1s0",
+      "macAddr": "64:5A:04:64:91:96",
+>>>>>>> c35d5aac665662942e5988830384646d7bb3449a
       "isVpn": false,
       "externalIp": "208.71.250.225"
     },
@@ -123482,6 +123505,7 @@
       "ip": "64.246.132.194"
     },
     "result": {
+<<<<<<< HEAD
       "id": "6e9b3ac4-cd5d-4be3-9146-b61be9d5438d",
       "url": "https://www.speedtest.net/result/c/6e9b3ac4-cd5d-4be3-9146-b61be9d5438d"
     }
@@ -144207,46 +144231,6 @@
     "result": {
       "id": "ece69979-5a66-4ffc-a4e0-3f0d2e769222",
       "url": "https://www.speedtest.net/result/c/ece69979-5a66-4ffc-a4e0-3f0d2e769222"
-    }
-  },
-  {
-    "type": "result",
-    "timestamp": "2021-01-06T12:45:29Z",
-    "ping": {
-      "jitter": 12.155,
-      "latency": 54.429
-    },
-    "download": {
-      "bandwidth": 2942593,
-      "bytes": 30824796,
-      "elapsed": 11700
-    },
-    "upload": {
-      "bandwidth": 591021,
-      "bytes": 4907968,
-      "elapsed": 8610
-    },
-    "packetLoss": 0,
-    "isp": "Hudson Valley Wireless",
-    "interface": {
-      "internalIp": "192.168.1.229",
-      "name": "enp0s3",
-      "macAddr": "08:00:27:52:85:5B",
-      "isVpn": false,
-      "externalIp": "208.71.250.225"
-    },
-    "server": {
-      "id": 16034,
-      "name": "ECFiber",
-      "location": "South Royalton, VT",
-      "country": "United States",
-      "host": "speedtest.ecfaccess.net",
-      "port": 8080,
-      "ip": "104.219.98.54"
-    },
-    "result": {
-      "id": "ef8a1a57-aafc-4e47-8989-d2f37524a6f3",
-      "url": "https://www.speedtest.net/result/c/ef8a1a57-aafc-4e47-8989-d2f37524a6f3"
     }
   }
 ]
